@@ -5,7 +5,7 @@
      alt="Markdown Monster icon"
      style="width: 100%; height: 500px" />
 
-<h2 style="color:#FFFFFF; letter-spacing: 2px">Purpose: </h2>
+<code style="color:#FFFFFF; letter-spacing: 2px">Purpose: </code>
 <p style="letter-spacing: 1.5px;line-height:2rem;">
 Libft(Library fortey two) is the <i style="color: #E9756F">first</i> project in the common core circle, in this project we were assigned the task of recreating/recoding most of Clib functions such as strlen, strcpy, atoi...<br><br>
 The whole purpose of this project is to learn the <i style="color: #E9756F"><b>basics</b></i> in C programming as well as <i>string manipulation</i>,<i> file manipulations</i>, <i>streams</i>, <i>memory allocation and management</i>
